@@ -2,7 +2,7 @@
 
 Here we will be practicing react-query what we need.
 
-### Module to finish
+## Module to finish
 
 - Basic queries
 - Poll Data
