@@ -6,6 +6,7 @@ Here we will be practicing react-query what we need.
 
 - Basic queries
 - Poll Data
+- Loading, error etc handle
 - RQ Dev tools
 - reusable query hooks
 - Query by id
